@@ -14,7 +14,7 @@ This repository consists of files required for end to end implementation and dep
 
 A glimpse of the web app:
 
-![GIF](readme_resources/diseased_cotton.gif)
+![GIF](readme_resources/tomato.gif)
 
 The Tomato Leaf Disease Predictor is a flask web application which classifies a plant/leaf image into 10 categories viz. 'Tomato_mosaic_virus', 'Early_blight', 'Septoria_leaf_spot', 'Bacterial_spot', 'Target_Spot', 'Spider_mites Two spotted_spider_mite', 'Tomato_Yellow_Leaf_Curl_Virus', 'Late_blight', 'Healthy', and 'Leaf_Mold'. The code is written in Python 3.6.10 and makes use of Keras and Tensorflow libraries in developing an InceptionV3 based image classification web application. 
 
